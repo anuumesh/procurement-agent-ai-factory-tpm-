@@ -1,37 +1,61 @@
 # procurement-agent-ai-factory-tpm-
 Case Study
 
-# AI Factory – Procurement Agent Program Delivery
+# Procurement Agent Program – AI Factory Delivery Plan
 
-## Role
-Technical Program Manager – AI Factory (GovAI)
+## Overview
 
-## Project Overview
-This repository contains delivery planning artifacts for the Abu Dhabi Government AI Factory flagship project "Procurement Agent".
+This repository documents the delivery approach for the Abu Dhabi Government AI Factory priority initiative — **Procurement Agent**.
 
-The program supports:
-- RFP automation
-- AI-driven sourcing optimization
-- Oracle Fusion ERP integration
-- Arabic & English NLP document processing
-- Regulatory compliance and audit readiness
+The objective of this program is not only to introduce AI-driven automation into procurement workflows, but to do so in a manner that is operationally sustainable, compliant with government regulations, and aligned with enterprise ERP systems currently in use across departments.
 
-## Scope
-Part A: Project Planning & Strategy
+The project has been structured as a phased delivery program to allow early business value realization while managing integration, security, and data quality risks.
 
-Deliverables:
-- Comprehensive Project Plan
-- Stakeholder Management Framework
-- Governance & Reporting Model
-- Risk and Budget Tracking Templates
+---
 
-## Delivery Milestones
-Phase 1 – Gitex  
-Phase 2 – December  
-Phase 3 – Q1 2026  
+## Program Objectives
 
-## Compliance Standards
-- ISO 27001
-- UAE Data Protection Law
-- Abu Dhabi Government Procurement Regulations
+The Procurement Agent is designed to support the following measurable outcomes:
 
+- Reduce RFP preparation cycle from 3–4 weeks to under 1 week
+- Improve vendor evaluation consistency and scoring accuracy
+- Shorten overall procurement lifecycle timelines
+- Deliver annual cost savings of approximately AED 5M across participating entities
+
+---
+
+## Delivery Phases
+
+| Phase | Business Goal | Timeline |
+------|---------------|----------
+Phase 1 (MVP) | Demonstrate core automation capabilities | Gitex
+Phase 2 (Scale) | Expand analytics and optimization | December
+Phase 3 (Optimize) | Full enterprise rollout | Q1 2026
+
+---
+
+## Operating Constraints
+
+The program is executed within the following boundaries:
+
+- Total approved budget: AED 2.8M  
+- Maximum delivery team size: 12 FTE  
+- Compliance requirements: ISO 27001, UAE Data Protection Law  
+- Infrastructure platform: Microsoft Azure  
+- ERP platform: Oracle Fusion  
+
+---
+
+## Stakeholder Environment
+
+Primary stakeholders include:
+
+- Department of Government Procurement – Business Owner  
+- Department of Finance – ERP and Financial Integration Partner  
+- GovAI AI Factory Leadership – Product Oversight  
+- Legal & Compliance Units – Regulatory Governance  
+
+---
+
+Prepared by:  
+** UMESH YADAV **
